@@ -1,0 +1,25 @@
+# 包含所有生产依赖
+-r requirements.txt
+
+# 开发工具
+pytest>=7.0.0
+pytest-qt>=4.0.0
+pytest-cov>=3.0.0
+
+# 代码格式化和检查
+black>=22.0.0
+flake8>=4.0.0
+isort>=5.0.0
+mypy>=0.950
+
+# 文档生成
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0
+
+# 构建工具
+build>=0.8.0
+twine>=4.0.0
+wheel>=0.37.0
+
+# 类型检查存根
+types-requests>=2.25.0
