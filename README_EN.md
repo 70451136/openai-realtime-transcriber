@@ -3,7 +3,7 @@
 A professional real-time speech transcription tool based on OpenAI Realtime API, featuring multilingual interface, typewriter effect display, audio visualization, and advanced functionalities.
 
 ## ✨ Key Features
-
+![主界面](微信图片_20250614161720.png)
 ### 🎙️ Real-time Speech Transcription
 - Built on OpenAI's latest Realtime API (gpt-4o-transcribe)
 - Ultra-low latency (<20ms) real-time transcription
