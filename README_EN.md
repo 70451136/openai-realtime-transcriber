@@ -230,9 +230,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- Project Homepage: https://github.com/yourusername/openai-realtime-transcriber
-- Issue Reports: https://github.com/yourusername/openai-realtime-transcriber/issues
-- Email: your.email@example.com
+- Project Homepage: https://github.com/70451136/openai-realtime-transcriber
+- Issue Reports: https://github.com/70451136/openai-realtime-transcriber/issues
+- Email: 231876520@qq.com
 
 ## 🔮 Roadmap
 
