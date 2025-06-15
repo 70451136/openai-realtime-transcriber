@@ -54,7 +54,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/openai-realtime-transcriber.git
+git clone https://github.com/70451136/openai-realtime-transcriber.git
 cd openai-realtime-transcriber
 
 # 安装依赖
